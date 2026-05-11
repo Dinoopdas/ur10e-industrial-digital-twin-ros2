@@ -69,7 +69,7 @@ git clone -b jazzy https://github.com/UniversalRobots/Universal_Robots_ROS2_Driv
 git clone https://github.com/UniversalRobots/Universal_Robots_ROS2_GZ_Simulation.git
 
 # Clone this project
-git clone https://github.com/YOUR_USERNAME/ur10e-industrial-digital-twin-ros2.git
+git clone https://github.com/Dinoopdas/ur10e-industrial-digital-twin-ros2.git
 
 # Install dependencies
 cd ~/robot_ws
