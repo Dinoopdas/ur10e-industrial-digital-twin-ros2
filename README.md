@@ -30,7 +30,7 @@ This project simulates a real-world industrial pick-and-place operation using th
 ```
 ┌────────────────────┐     ┌──────────────────────┐     ┌────────────────────┐
 │   Gazebo Harmonic  │◄───►│   ROS 2 Control      │◄───►│     MoveIt 2       │
-│   (Physics Sim)    │     │   (Joint Interface)   │     │  (Motion Planner)  │
+│   (Physics Sim)    │     │   (Joint Interface)  │     │  (Motion Planner)  │
 └────────────────────┘     └──────────────────────┘     └────────┬───────────┘
                                                                   │
                            ┌──────────────────────┐     ┌────────┴───────────┐
