@@ -9,7 +9,7 @@ A fully simulated industrial robot arm (Universal Robots UR10e) running as a dig
 
 ## Demo
 
-https://github.com/user-attachments/assets/demo-placeholder
+https://github.com/user-attachments/assets/1f616003-c6d2-4d7f-8835-8015a1b486d4
 
 > The UR10e arm autonomously executes a full pick-and-place cycle — pre-pick → pick → grasp → lift → transport → place → release → retreat — in both Gazebo simulation and RViz2 digital twin view simultaneously.
 
