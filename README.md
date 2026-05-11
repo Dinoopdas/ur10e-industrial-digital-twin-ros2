@@ -174,8 +174,7 @@ This project is part of a larger industrial digital twin learning path:
 
 ## Author
 
-**Dinoop** — Engineering professional transitioning into industrial robotics and digital twin development. Background in engineering procurement and document control for large-scale industrial projects (oil & gas, rail infrastructure).
-
+**Dinoop** — Background in Robotics engineering, transitioning into industrial robotics and digital twin development.
 ## License
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
