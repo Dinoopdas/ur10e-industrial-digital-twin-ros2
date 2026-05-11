@@ -32,7 +32,7 @@ This project simulates a real-world industrial pick-and-place operation using th
 │   Gazebo Harmonic  │◄───►│   ROS 2 Control      │◄───►│     MoveIt 2       │
 │   (Physics Sim)    │     │   (Joint Interface)  │     │  (Motion Planner)  │
 └────────────────────┘     └──────────────────────┘     └────────┬───────────┘
-                                                                  │
+                                                                 │
                            ┌──────────────────────┐     ┌────────┴───────────┐
                            │      RViz2           │     │  pick_and_place.py │
                            │   (Digital Twin)     │     │  (Python Node)     │
